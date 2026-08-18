@@ -1,0 +1,16 @@
+# ---- Obsidian 本地状态（个人 UI 状态，不随仓库同步） ----
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/trash/
+
+# ---- 系统文件 ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- 临时/备份文件 ----
+*.tmp
+*~
+*.bak
+*.swp
